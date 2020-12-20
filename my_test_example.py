@@ -14,3 +14,4 @@ result = inference_detector(model, img)
 model.show_result(img, result)
 # or save the visualization results to image files
 model.show_result(img, result, out_file='result.jpg')
+# test commit log
